@@ -433,3 +433,6 @@ DEPENDENCIES
   unicorn
   will_paginate
   zeus
+
+BUNDLED WITH
+   1.10.4
